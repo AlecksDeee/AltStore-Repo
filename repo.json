@@ -1,1 +1,25 @@
-{}
+{
+  "name": "Forest Mods Studio",
+  "identifier": "com.fms.repo",
+  "sourceURL": "https://raw.githubusercontent.com/AlecksDeee/AltStore-Repo/refs/heads/main/repo.json",
+  "apps": [
+    {
+      "name": "China Brawl",
+      "bundleIdentifier": "com.fms.chinabrawl",
+      "developerName": "Forest Mods Studio",
+      "subtitle": "Мод с китайской атмосферой для Brawl Stars",
+      "version": "57.381",
+      "versionDate": "2024-10-04T00:01:00-05:00",
+      "versionDescription": "— Скин Дева Колетт\n— Скин Лунный Страж Гас\n— Скин Лунный Страж Эдгар\n— Скин Лунный Страж Нита\n— Скин Золотой Потусторонний Мортис добавлен вместо Театрального Мортиса\n+ Все компоненты которые прилагаются к ним (В том числе пины, спреи и иконки профиля)\n— Фон Лунных Стражей в лобби\n— Эффект Перерождения Девы Колетт (на всех бойцов)\n— Исправления VFX, SFX\n— Прочее",
+      "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
+      "localizedDescription": "Этот мод добавляет китайский дух игре. Мечтали сыграть на китайских скинах? Пожалуйста!",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/a9/69/98a969db-688b-caa1-8918-3bbe026f3737/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/230x0w.webp",
+      "tintColor": "#c7341a",
+      "size": 77010038,
+      "permissions": [],
+      "screenshotURLs": []
+    }
+  ],
+  "news": [],
+  "userInfo": {}
+}
