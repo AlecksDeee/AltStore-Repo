@@ -14,7 +14,7 @@
       "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
       "localizedDescription": "Этот мод добавляет китайский дух игре. Мечтали сыграть на китайских скинах? Пожалуйста!",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/a9/69/98a969db-688b-caa1-8918-3bbe026f3737/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/230x0w.webp",
-      "tintColor": "#c7341a",
+      "tintColor": "#058aff",
       "size": 77010038,
       "permissions": [],
       "screenshotURLs": []
